@@ -1,14 +1,14 @@
 spring:
   profiles: 
   application:
-    name: microservicecloud-zuul-gateway
+    name: 
 ---
 spring:
   profiles: dev  #开发环境
   application:
-    name: microservicecloud-zuul-gateway
+    name: microservicecloud-config-atguigu-dev
 ---
 spring:
   profiles: test #测试环境
   application:
-    name: microservicecloud-zuul-gateway
+    name: microservicecloud-config-atguigu-test
