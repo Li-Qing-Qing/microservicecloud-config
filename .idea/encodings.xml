@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicespring-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicespring-config-3344" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicespring-config-client-3355" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicespring-consumer-80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicespring-consumer-feign-80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicespring-consumer-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicespring-eureka-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicespring-eureka-7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicespring-eureka-7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicespring-provider-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicespring-provider-8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicespring-provider-8003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicespring-provider-hystrix-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicespring-zuul-gateway-9527" charset="UTF-8" />
+  </component>
+</project>

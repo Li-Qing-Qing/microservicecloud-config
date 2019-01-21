@@ -1,0 +1,13 @@
+server:
+  port: 3344
+
+spring:
+  application:
+    name:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/liqingelio/microservicecloud-config.git
+          #github上的地址
+
